@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\inventariobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\inventariobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\gestorprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\gestorprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\frmidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\frmidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\frmbiblioteca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\frmbiblioteca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\frmidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\frmidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\controlacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\controlacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650269F-9257-4DF5-9C8F-1A299481904F}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\FrmBiblioteca.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\FrmBiblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:48:55.869Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBiblioteca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\FrmBiblioteca.Designer.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.Designer.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\FrmBiblioteca.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:50:10.591Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmIdentificacion.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmIdentificacion.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\FrmIdentificacion.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmIdentificacion.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\FrmIdentificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:43:38.777Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\GestorPrestamos.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\GestorPrestamos.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\GestorPrestamos.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\GestorPrestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:45:06.795Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventarioBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\InventarioBiblioteca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\InventarioBiblioteca.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\InventarioBiblioteca.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\InventarioBiblioteca.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:46:00.573Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\Libro.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Libro.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\Libro.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:44:56.555Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmIdentificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmIdentificacion.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\FrmIdentificacion.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmIdentificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\FrmIdentificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:36:04.308Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBiblioteca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\FrmBiblioteca.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\FrmBiblioteca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\FrmBiblioteca.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:48:52.177Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\ControlAcademico.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ControlAcademico.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\ControlAcademico.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ControlAcademico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:42:26.364Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Program.cs",
+              "ToolTip": "C:\\Users\\galla\\OneDrive\\Documentos\\Visual Studio 18\\PRACTICAS\\practica C#\\practica C#\\PROYECTO FINAL\\PROYECTO FINAL\\Program.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T00:51:34.086Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
